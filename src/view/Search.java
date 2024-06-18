@@ -103,7 +103,7 @@ public class Search extends JPanel{
 		
 		constraints.gridx=1;
 		constraints.gridy++;
-		search = new JButton("Szukaj");
+		search = new JButton("Search");
 		search.setPreferredSize(TEXTDIM);
 		search.addActionListener(e->{
 			 SearchQuery query = new SearchQuery(getAdress(),getDistrict(),getType(),getStatus());

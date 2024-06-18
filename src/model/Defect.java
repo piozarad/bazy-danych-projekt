@@ -190,7 +190,6 @@ public class Defect {
 	
 	}
 	
-	
 	//Builder 
 	private Defect(DefectBuilder d, int id)
 	{
