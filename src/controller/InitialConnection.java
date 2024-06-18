@@ -17,7 +17,7 @@ public class InitialConnection {
 
 	String jdbcUrl = "jdbc:postgresql://localhost:5432/postgres";
     String username = "postgres";
-    String password = "bananbanan123";
+    String password = "admin";
     List<String> temp = new ArrayList<>();
 
 			
